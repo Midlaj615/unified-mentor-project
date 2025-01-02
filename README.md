@@ -20,6 +20,7 @@
 ### 📊 **Project Overview**
 This project analyzes employee attrition trends at "**Green Destinations**", a well-known travel agency. The HR Director noticed a rise in employee turnover and provided survey data to identify patterns and key influencing factors.
 
+![unified project png](https://github.com/user-attachments/assets/5755b4e5-67e2-4887-bb73-ac8f06663096)
 
 
 ### 🎯 **Objective**
