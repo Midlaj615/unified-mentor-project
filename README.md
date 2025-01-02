@@ -20,6 +20,8 @@
 ### 📊 **Project Overview**
 This project analyzes employee attrition trends at "**Green Destinations**", a well-known travel agency. The HR Director noticed a rise in employee turnover and provided survey data to identify patterns and key influencing factors.
 
+
+
 ### 🎯 **Objective**
 
 - **Calculate the attrition rate** (% of employees who have left).  
